@@ -1,2 +1,2 @@
 # bikesharing
-https://public.tableau.com/app/profile/jason.mueller/viz/NYCCitiBikeChallenge_16430763340860/NYCCitiBikeBikeshareStory?publish=yes
+https://public.tableau.com/app/profile/nicholas.mckinney/viz/NYCBikeshareAnalysis_16754829504790/NYC_Bikeshare_Analysis?publish=yes
