@@ -3,6 +3,8 @@
 ## Overview of the Analysis
 This analysis was done to solidify the proposal to convince the investors that a bike-sharing program is a solid business model by creating a visualization of a bike trip analysis.
 
+The data was obtained from [citibike](https://citibikenyc.com/system-data) and we first formatted the data using jupyter notebook before creating the visualization.
+
 ## Results
 ### Checkout Times
 * This first image describes that the trip durations are mostly 5 min and there are no significant differences between gendors.
